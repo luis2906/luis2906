@@ -9,7 +9,7 @@ I’m excited to bring my skills and expertise to a company that values growth, 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luismh92" alt="luismh92" /></a> </p>
 
-- 🔭 I’m currently working on [Purplelab Project](https://purplelab.com/)
+- 🔭 I am currently working at SourceMeridian (https://sourcemeridian.com/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
