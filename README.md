@@ -60,7 +60,7 @@ I’m excited to bring my skills and expertise to a company that values growth, 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luismh92&" alt="luismh92" /></p>
 
-## Experience
+## 🛠️ Experience
 
 ### 🖥️ Full-Stack Engineer | [SOURCEMERIDIAN](https://sourcemeridian.com/)
 *January 2019 - Present*
@@ -98,13 +98,47 @@ I’m excited to bring my skills and expertise to a company that values growth, 
 - Provided user training on basic troubleshooting and best practices for printers and computers.
 - Utilized ticketing systems to track, resolve, and report technical issues, ensuring efficient support.
 
-### 🛠️ TECHNICAL SUPPORT - Help desk department | [Universidad Autonoma Del Caribe](https://www.uac.edu.co/)
+### 💻 TECHNICAL SUPPORT - Help desk department | [Universidad Autonoma Del Caribe](https://www.uac.edu.co/)
 *February - Agust 2010*
 
 - Provided technical support for computer and printer teams, assisting company officials with troubleshooting and resolving IT-related issues.
 - Configured network settings for reliable internet access and supported the use of university-specific applications.
 - Delivered expert guidance on equipment features, functions, and troubleshooting procedures to end-users.
 - Managed the digitization and organization of reports, ensuring efficient data storage and retrieval within the database.
+
+
+## 🎓 Education 
+
+- **Master of Software Engineer**  
+  - [Universidad De los Andes]([https://www.uac.edu.co/](https://www.uniandes.edu.co/)), [2023 - Present]
+  - Relevant coursework:
+    - Software Design and Architecture Principles
+    - Essential Software Engineering Practices for Agility
+    - Automated Software Testing
+    - Software Engineering for Web Applications
+    - Agile Development Processes
+    - Agile Software Architectures
+    - Software Engineering for Mobile Applications
+    - Cloud Software Development
+    - Cloud-Native Application Development
+    - UX - Enhancing User Experience
+    - DevOps: Accelerating Continuous Application Deployment
+    - Project Management
+    - Diseño y construcción de soluciones no monolíticas
+
+- **Bachelor of System Engineer**  
+  - [Universidad Autonoma Del Caribe](https://www.uac.edu.co/), [2010 - 2015]
+  - Relevant coursework: Data Structures, Algorithms, Software Engineering, Architecture, Web Development.
+
+- **Computer Equipment Maintenance Technician**  
+  - [Servicio Nacional de Aprendizaje](https://www.sena.edu.co/es-co/Paginas/default.aspx), [2009 - 2010]
+  - Relevant coursework: Hardware Architecture of Computer Equipment, Technical Support Procedure Manual, Incident Management, Tools for Diagnosis and Maintenance of Computer Equipment, Fundamentals of Operating Systems, Preventive and Security Maintenance Tasks.
+
+
+
+
+
+
 
 
 
