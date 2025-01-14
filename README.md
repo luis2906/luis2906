@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm LUIS MENDOZA H</h1>
-<p>I’m a passionate Full Stack Developer from Colombia with over 7 years of experience, specializing in Python and JavaScript. My expertise spans various front-end frameworks, including Next.js (React), Angular, Knockout.js, and jQuery. On the back end, I work extensively with Flask, FastAPI, and Django.
+<p>I’m a passionate Full Stack Developer from Colombia with over 7 years of experience, specializing in Python and JavaScript. My expertise spans various front-end frameworks, including Next.js (React), Angular, Knockout.js, and PersonaljQuery. On the back end, I work extensively with Flask, FastAPI, and Django.
 
 I’m dedicated to continuous learning and professional growth, always eager to explore new technologies and methodologies. I believe in the power of collaboration and enjoy sharing my knowledge with colleagues to contribute to the team’s success.
 
 I’m excited to bring my skills and expertise to a company that values growth, learning, and collaboration.</p>
+
+<h3 align="left">Personal Git Hub:</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luis2906&label=Profile%20views&color=0e75b6&style=flat" alt="luis2906" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luis2906" alt="luis2906" /></a> </p>
+
+<h3 align="left"> Student GitHub:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luismh92&label=Profile%20views&color=0e75b6&style=flat" alt="luismh92" /> </p>
 
