@@ -5,18 +5,6 @@ I’m dedicated to continuous learning and professional growth, always eager to 
 
 I’m excited to bring my skills and expertise to a company that values growth, learning, and collaboration.</p>
 
-<h3 align="left">Personal Git Hub:</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luis2906&label=Profile%20views&color=0e75b6&style=flat" alt="luis2906" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luis2906" alt="luis2906" /></a> </p>
-
-<h3 align="left"> Student GitHub:</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luismh92&label=Profile%20views&color=0e75b6&style=flat" alt="luismh92" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luismh92" alt="luismh92" /></a> </p>
-
 - 🔭 I am currently working at SourceMeridian (https://sourcemeridian.com/).
 
 <h3 align="left">Connect with me:</h3>
@@ -61,6 +49,30 @@ I’m excited to bring my skills and expertise to a company that values growth, 
 
 
 <hr>
+
+
+<h3 align="left">Personal GitHub:</h3>
+
+[![GitHub Profile](https://img.shields.io/badge/-My%20GitHub-000000?style=flat-square&logo=github)](https://github.com/luis2906)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luis2906&label=Profile%20views&color=0e75b6&style=flat" alt="luis2906" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luis2906" alt="luis2906" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luis2906&show_icons=true&locale=en&layout=compact" alt="luis2906" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luis2906&show_icons=true&locale=en" alt="luis2906" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luis2906&" alt="luis2906" /></p>
+
+
+<h3 align="left">Student GitHub:</h3>
+
+[![GitHub Profile](https://img.shields.io/badge/-My%20GitHub-000000?style=flat-square&logo=github)](https://github.com/luismh92)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luismh92&label=Profile%20views&color=0e75b6&style=flat" alt="luismh92" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luismh92" alt="luismh92" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luismh92&show_icons=true&locale=en&layout=compact" alt="luismh92" /></p>
 
