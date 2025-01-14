@@ -60,4 +60,51 @@ I’m excited to bring my skills and expertise to a company that values growth, 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luismh92&" alt="luismh92" /></p>
 
+## Experience
+
+### 🖥️ Full-Stack Engineer | [SOURCEMERIDIAN](https://sourcemeridian.com/)
+*January 2019 - Present*
+
+- Designed and deployed AWS services, including Serverless, ECS, SNS, SQS, and CodeArtifact, optimizing cloud infrastructure.
+- Migrated data from Google Cloud BigQuery to AWS, leveraging Python libraries like google-cloud, Celery, pymysql, and pandas.
+- Developed web applications using frameworks such as Next.js (React.js) and Angular to deliver responsive and user-friendly interfaces.
+- Integrated and managed user accounts with Stripe for seamless payment processing.
+- Created RESTful APIs using Python Django and Flask, utilizing ViewSet (Django) and Flask-Restful, with PostgreSQL and MySQL databases.
+- Conducted stress testing using the Locust library to ensure system scalability and performance under load.
+
+### 🖥️ Full-Stack Engineer -  TOTALWORK S.A
+*July 2016 - January 2019*
+
+- Gathered requirements from the client, ELECTRICARIBE S.A., to design and implement tailored software solutions.
+- Developed frontend modules using Bootstrap, Knockout.js, and jQuery, while implementing backend solutions with Python (2, 3) and Django (Django REST Framework).
+- Managed SQL Server backups on AWS, ensuring data integrity and security.
+- Provided ongoing technical support to end users, troubleshooting and resolving issues in the developed applications.
+- Developed asynchronous features to enhance system performance and responsiveness.
+  
+### 🖥️ Full-Stack Engineer - GESTION Y DISEÑOS ELECTRICOS - GDEL
+*October 2024 - July2016*
+
+- Developed and provided technical support for the SGP application, leveraging PHP for backend development and Bootstrap, jQuery, and Knockout.js for frontend design, ensuring a seamless user experience.
+- Designed and implemented APIs using Python (versions 2.x and 3.x) and Django (with Django REST Framework), optimizing data handling and improving application scalability.
+- Managed the MySQL database integration for the SGP application, ensuring high-performance queries, secure data storage, and efficient data retrieval.
+- Collaborated with cross-functional teams to troubleshoot, optimize, and enhance the functionality of the SGP application, maintaining high levels of user satisfaction.
+
+### 💻 TECHNICAL SUPPORT - Employee savings fund  | [Universidad Autonoma Del Caribe](https://www.uac.edu.co/)
+*September 2012 - November 2013*
+
+- Performed preventive and corrective maintenance on printers and computers, ensuring system reliability and minimizing downtime.
+- Diagnosed and resolved hardware/software issues, including connectivity problems, performance optimization, and data recovery.
+- Managed regular updates, backups, and hardware checks to maintain optimal device functionality.
+- Provided user training on basic troubleshooting and best practices for printers and computers.
+- Utilized ticketing systems to track, resolve, and report technical issues, ensuring efficient support.
+
+### 🛠️ TECHNICAL SUPPORT - Help desk department | [Universidad Autonoma Del Caribe](https://www.uac.edu.co/)
+*February - Agust 2010*
+
+- Provided technical support for computer and printer teams, assisting company officials with troubleshooting and resolving IT-related issues.
+- Configured network settings for reliable internet access and supported the use of university-specific applications.
+- Delivered expert guidance on equipment features, functions, and troubleshooting procedures to end-users.
+- Managed the digitization and organization of reports, ensuring efficient data storage and retrieval within the database.
+
+
 
