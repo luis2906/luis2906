@@ -144,7 +144,7 @@ I’m excited to bring my skills and expertise to a company that values growth, 
 ## 🎓 Education 
 
 - **Master of Software Engineer**  
-  - [Universidad De los Andes](https://www.uniandes.edu.co/), [2023 - Present]
+  - [Universidad De los Andes](https://www.uniandes.edu.co/), [2023 - 2025]
   - Relevant coursework:
     - Software Design and Architecture Principles
     - Essential Software Engineering Practices for Agility
